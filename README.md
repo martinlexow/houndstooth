@@ -1,6 +1,6 @@
 # Houndstooth Playground
 
-Straigtforward Swift Playground to dynamically draw a randomized houndstooth pattern.
+Straightforward Swift Playground to dynamically draw a randomized houndstooth pattern.
 
 ![](preview.png)
 
